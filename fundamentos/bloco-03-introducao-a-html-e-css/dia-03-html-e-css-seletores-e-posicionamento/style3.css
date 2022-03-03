@@ -1,0 +1,18 @@
+h1, p {
+    text-align: center;
+}
+li:hover {
+    background-color: crimson;    
+}
+li:active {
+    font-family: sans-serif;
+    color: aliceblue;
+}
+ul {
+    text-align: center;
+    list-style: none;
+}
+p {
+    color: darkred;
+    font-size: 18px;
+}
