@@ -1,0 +1,34 @@
+body{
+    margin: 0;
+}
+
+header {
+  width: 100%; 
+  background-color: crimson;
+  text-align: center;
+  justify-content: space-between;
+  display: flex;
+}
+header ul li {
+  padding: 20px; 
+  display: inline;
+}
+main{
+    margin: 20px;
+}
+
+main article h2 {
+    font-size: 50px;
+    color: crimson;
+}
+
+main article section {
+    margin-top: 100px ;
+}
+img {
+    width: 300px;
+}
+article {
+    margin-right: 250px;
+}
+
